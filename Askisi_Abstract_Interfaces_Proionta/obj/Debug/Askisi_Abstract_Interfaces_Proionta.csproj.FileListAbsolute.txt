@@ -1,0 +1,7 @@
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\bin\Debug\Askisi_Abstract_Interfaces_Proionta.exe.config
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\bin\Debug\Askisi_Abstract_Interfaces_Proionta.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\bin\Debug\Askisi_Abstract_Interfaces_Proionta.pdb
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\obj\Debug\Askisi_Abstract_Interfaces_Proionta.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\obj\Debug\Askisi_Abstract_Interfaces_Proionta.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\obj\Debug\Askisi_Abstract_Interfaces_Proionta.exe
+C:\Users\cult_\OneDrive\Desktop\C# Files\19.06\Askisi_Abstract_Interfaces_Proionta\Askisi_Abstract_Interfaces_Proionta\obj\Debug\Askisi_Abstract_Interfaces_Proionta.pdb
